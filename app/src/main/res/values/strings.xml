@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">ExampleBottomNavigationView</string>
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris accumsan nibh id erat
+        viverra elementum. Vivamus semper quam nec euismod laoreet. Suspendisse non magna viverra,
+        lobortis felis quis, laoreet libero. Nunc imperdiet velit in ante porttitor ultrices. Donec
+        in mi faucibus neque pulvinar hendrerit sit amet vel justo. Ut maximus justo a augue
+        vehicula, nec varius arcu ullamcorper. Nullam at lectus sed enim congue iaculis.
+        \n
+        \n
+        Morbi sit amet libero ut odio maximus dapibus. Aenean aliquam et sem a condimentum. Morbi in
+        augue ullamcorper, elementum tortor sit amet, commodo leo. Fusce nisi tellus, imperdiet
+        malesuada tempor ac, luctus ac lorem. Donec condimentum justo a ligula venenatis faucibus.
+        Ut porta odio mi, at elementum massa suscipit non. Donec nec lacinia tellus. Integer
+        consectetur condimentum mi sed gravida. Nunc sem ligula, lacinia sit amet vestibulum id,
+        pellentesque et lectus. Curabitur commodo erat ipsum, id ullamcorper ligula accumsan eget.
+        Ut faucibus, libero eget vestibulum volutpat, felis libero condimentum lacus, non cursus sem
+        est in purus. Integer nisl quam, facilisis sagittis neque quis, tempor euismod velit.
+        Phasellus nec sapien commodo, vehicula libero sit amet, scelerisque purus. Vestibulum
+        vulputate cursus mauris, id scelerisque mi porttitor non. Integer velit massa, dapibus et
+        leo eget, finibus malesuada est.
+        \n
+        \n
+        Curabitur elit urna, sodales non leo eget, venenatis aliquet erat. Nulla nec metus faucibus,
+        maximus erat vestibulum, interdum nibh. Sed eget ex erat. Suspendisse nulla massa, dictum
+        vel porttitor quis, molestie nec tellus. Etiam eget nisi ut augue pellentesque finibus id
+        efficitur nulla. Phasellus lobortis mauris eu ligula pretium, at consectetur enim ornare.
+        Quisque ornare nisl nunc, eu dictum est faucibus vitae. Vestibulum odio nunc, rhoncus vel
+        hendrerit eget, sagittis a diam. Sed vel tempor sapien, non rhoncus leo. Phasellus ac odio
+        euismod, imperdiet dolor in, ultricies turpis.
+        \n
+        \n
+        Donec feugiat dolor lacus, nec fringilla dolor aliquet non. Maecenas varius nibh nec nibh
+        euismod, at dictum sem congue. Pellentesque faucibus ut dolor eu auctor. Vestibulum laoreet
+        accumsan magna, a fermentum est sagittis at. Fusce consectetur metus augue, et sollicitudin
+        ante sagittis vel. Donec porttitor commodo iaculis. Sed mollis vitae felis eget vulputate.
+        Cras malesuada eros volutpat vehicula fermentum. Suspendisse luctus lectus ut augue
+        consectetur sollicitudin. Pellentesque bibendum justo vitae tellus aliquet gravida sed eget
+        metus. Mauris at mi vel urna euismod mollis id nec ante.
+        \n
+        \n
+        Vivamus bibendum feugiat est non fermentum. Suspendisse a dolor nisi. Integer varius
+        interdum venenatis. Suspendisse accumsan, tortor eu pulvinar vehicula, erat quam lobortis
+        lorem, eu dapibus ex sapien at est. Praesent fermentum ipsum at ligula ultricies, ac
+        interdum risus vulputate. Etiam feugiat, odio nec convallis porttitor, ipsum libero congue
+        magna, sed rhoncus justo urna non est. Class aptent taciti sociosqu ad litora torquent per
+        conubia nostra, per inceptos himenaeos. Sed accumsan orci quis tristique cursus. Lorem ipsum
+        dolor sit amet, consectetur adipiscing elit. Sed aliquam cursus dictum. Praesent id molestie
+        nulla.
+    </string>
+</resources>
